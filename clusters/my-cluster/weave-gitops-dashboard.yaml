@@ -33,9 +33,4 @@ spec:
         kind: HelmRepository
         name: ww-gitops
   interval: 1h0m0s
-  values:
-    adminUser:
-      create: true
-      passwordHash: $2a$10$dxHvqeQFtdc3eT9Go.ER7ePTayKkSk1AETWq.ndP2ujHwOs303ciG
-      username: admin
 
